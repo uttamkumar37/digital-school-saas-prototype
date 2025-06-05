@@ -1,3 +1,10 @@
 package com.digitalschool.user.dto;
 
-public class LoginRequest {}
+import lombok.Data;
+
+@Data
+public class LoginRequest {
+    private String tenantId;
+    private String username;
+    private String password;
+}
