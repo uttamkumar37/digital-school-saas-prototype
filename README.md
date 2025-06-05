@@ -71,4 +71,4 @@ This project is for prototype/demo purposes.
 
 ## Contact
 
-For questions or contributions, please contact [your-email@example.com].
+For questions or contributions, please contact [uttamkumar3797@gmail.com].
